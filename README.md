@@ -248,5 +248,5 @@ npx playwright show-trace test-results/<nome-do-trace>/trace.zip
 
 Desenvolvido como projeto de portfólio premium por **[Seu Nome]**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vitor-aguiar-3370351b7/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/AguiarMS).
