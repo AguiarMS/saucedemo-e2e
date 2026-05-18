@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "module": "commonjs",
-    "moduleResolution": "node",
+    "module": "Node16",
+    "moduleResolution": "node16",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -10,12 +10,11 @@
     "resolveJsonModule": true,
     "outDir": "./dist",
     "rootDir": "./",
-    "baseUrl": ".",
     "paths": {
-      "@pages/*": ["pages/*"],
-      "@data/*": ["data/*"],
-      "@utils/*": ["utils/*"],
-      "@constants/*": ["constants/*"]
+      "@pages/*": ["./pages/*"],
+      "@data/*": ["./data/*"],
+      "@utils/*": ["./utils/*"],
+      "@constants/*": ["./constants/*"]
     }
   },
   "include": ["**/*.ts"],
