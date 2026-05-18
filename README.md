@@ -249,5 +249,4 @@ npx playwright show-trace test-results/<nome-do-trace>/trace.zip
 Desenvolvido como projeto de portfólio premium por **[Seu Nome]**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)#   s a u c e d e m o - e 2 e  
- 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario).
